@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finding the flow"
-date:       2019-12-17 20:00:49 +0000
+date:       2019-12-17 15:00:50 -0500
 permalink:  finding_the_flow
 ---
 
