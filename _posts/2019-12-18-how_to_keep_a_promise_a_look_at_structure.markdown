@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How To Keep A Promise: A Look at Structure"
-date:       2019-12-19 01:19:39 +0000
+date:       2019-12-18 20:19:40 -0500
 permalink:  how_to_keep_a_promise_a_look_at_structure
 ---
 
